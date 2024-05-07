@@ -1,0 +1,13 @@
+.loadMoreButton {
+	display: flex;
+	border: none;
+	padding: 10px 20px;
+	width: max-content;
+	margin: 10px auto;
+	background-color: lightblue;
+	border-radius: 3px;
+}
+
+.loadMoreButton:hover {
+	background-color: aqua;
+}
